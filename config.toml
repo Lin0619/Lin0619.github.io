@@ -1,10 +1,8 @@
-
-
 baseurl = "https://Lin0619.github.io" 
 languageCode = "zh-tw" 
 title = "Whatever you want" 
 buildDrafts = false 
-
+theme = "PaperMod"
 	
 [[menu.main]]
 identifier = "tags"
@@ -34,7 +32,7 @@ weight = 30
 enabled = true
 title = "Enter the Content"
 subtitle = "Enter the Content"
-imageUrl = "img/001.jpg"
+imageUrl = "img/001.jpeg"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "Enter the content"
